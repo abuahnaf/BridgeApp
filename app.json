@@ -1,0 +1,12 @@
+{
+  "name": "BridgeApp",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "repository": "https://github.com/abuahnaf/BridgeApp.git",
+  "logo": "http://cdn.mysitemyway.com/etc-mysitemyway/icons/legacy-previews/icons-256/3d-glossy-blue-orbs-icons-culture/021859-3d-glossy-blue-orb-icon-culture-golden-gate-bridge-sc44.png",
+  "success_url": "/",
+  "image": "heroku/nodejs"
+}
